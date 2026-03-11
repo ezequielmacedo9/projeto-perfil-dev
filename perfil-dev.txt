@@ -1,12 +1,16 @@
 Nome: Ezequiel Macedo
+Nome: Gabriel de Jesus
 
-Área: Desenvolvedor Backend Java
+Área: Desenvolvedor Backend Jav
+Área: Desenvolvedor FrontEnd
 
 Linguagens:
+- HTML e CSS
+- JavaScript
 - Java
 - Spring Boot
 - Git
 - Banco de Dados
 
 Objetivo:
-Me tornar um desenvolvedor profissional.
+Nos tornar desenvolvedores profissionais.
