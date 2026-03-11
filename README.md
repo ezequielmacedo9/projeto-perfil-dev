@@ -112,4 +112,4 @@ Isso demonstra **maturidade de projeto**.
 
 ---
 
-Se quiser, também posso te mostrar **um README nível GitHub profissiona
+Se quiser, também posso te mostrar **um README nível GitHub profissional
