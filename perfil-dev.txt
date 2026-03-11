@@ -1,11 +1,12 @@
 Nome: Ezequiel Macedo
 
-Área: Desenvolvimento de Software
+Área: Desenvolvedor Backend Java
 
 Linguagens:
 - Java
-- HTML
-- CSS
+- Spring Boot
+- Git
+- Banco de Dados
 
 Objetivo:
 Me tornar um desenvolvedor profissional.
