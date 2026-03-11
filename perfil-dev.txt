@@ -1,0 +1,11 @@
+Nome: Ezequiel Macedo
+
+Área: Desenvolvimento de Software
+
+Linguagens:
+- Java
+- HTML
+- CSS
+
+Objetivo:
+Me tornar um desenvolvedor profissional.
