@@ -1,13 +1,14 @@
 Nome: Ezequiel Macedo
 Nome: Gabriel de Jesus
 
-Área: Desenvolvedor Backend Jav
+Área: Desenvolvedor Backend Java
 Área: Desenvolvedor FrontEnd
 
 Linguagens:
-- HTML e CSS
-- JavaScript
 - Java
+- HTML
+- CSS
+- JavaScript
 - Spring Boot
 - Git
 - Banco de Dados
